@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/60-InnoscriptaCaseStudy/static/css/main.b365b39c.css",
+    "main.js": "/60-InnoscriptaCaseStudy/static/js/main.d55ee8aa.js",
+    "index.html": "/60-InnoscriptaCaseStudy/index.html",
+    "main.b365b39c.css.map": "/60-InnoscriptaCaseStudy/static/css/main.b365b39c.css.map",
+    "main.d55ee8aa.js.map": "/60-InnoscriptaCaseStudy/static/js/main.d55ee8aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b365b39c.css",
+    "static/js/main.d55ee8aa.js"
+  ]
+}
